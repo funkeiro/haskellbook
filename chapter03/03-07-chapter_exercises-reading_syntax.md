@@ -6,6 +6,7 @@ a)
 concat [[1, 2, 3], [4, 5, 6]]
 ```
 **Answer:** It's right.
+
 b)
 ```haskell
 ++ [1, 2, 3] [4, 5, 6]
@@ -16,11 +17,13 @@ b)
 ```haskell
 (++) [1, 2, 3] [4, 5, 6]
 ```
+
 c)
 ```haskell
 (++) "hello" " world"
 ```
 **Answer:** It's right.
+
 d)
 ```haskell
 ["hello" ++ " world]
@@ -31,6 +34,7 @@ d)
 ```haskell
 "hello" ++ " world
 ```
+
 e)
 ```haskell
 4 !! "hello"
@@ -41,6 +45,7 @@ e)
 ```haskell
 "hello" !! 4
 ```
+
 f)
 ```haskell
 (!!) "hello" 4
@@ -57,6 +62,7 @@ take "4 lovely"
 ```haskell
 take 4 "lovely"
 ```
+
 h)
 ```haskell
 take 3 "awesome"
@@ -112,6 +118,7 @@ e)
 ```
 
 **Answer:**
+
 |💃|💃|
 |---|---|
 |a|d|
